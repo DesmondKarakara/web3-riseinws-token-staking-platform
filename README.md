@@ -461,5 +461,3 @@ Developed by **RiseIn**, **GDG Nit**, and **Devdipro Bhaduri**
 * Contributors and testers
 
 ```
-
-
