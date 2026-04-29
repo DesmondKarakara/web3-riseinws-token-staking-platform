@@ -1,5 +1,4 @@
 
-
 # Stellar Token Staking dApp
 
 A fully functional staking platform built on Stellar/Soroban, allowing users to connect wallets, stake tokens, earn rewards, claim earnings, and monitor real-time platform data.
@@ -459,5 +458,3 @@ Developed by **RiseIn**, **GDG Nit**, and **Devdipro Bhaduri**
 * Stellar Community
 * RiseIn Workshop Team
 * Contributors and testers
-
-```
